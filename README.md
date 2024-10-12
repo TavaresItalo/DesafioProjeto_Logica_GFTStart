@@ -2,6 +2,12 @@
 
 Este repositório contém um algoritmo que classifica um herói de acordo com seu nível de experiência. O algoritmo é implementado em Python e pode ser utilizado como base para jogos de RPG, onde personagens acumulam experiência e mudam de classificação ao atingir determinados níveis.
 
+## Autor
+
+ [<img loading="lazy" src="https://avatars.githubusercontent.com/u/138726084?v=4" width=115><br><sub>Italo Tavares</sub>](https://github.com/TavaresItalo) 
+
+Me chamo Ítalo tenho 23 anos e atualmente sou aluno do 4° período do curso de Análise e Desenvolvimento de Sistemas no IFPE – Campus Paulista,  tenho uma grande paixão pela área de Tecnologia da Informação. Ao longo dos últimos meses, através do curso, tive a oportunidade de adquirir habilidades sólidas de programação em JAVA e Python e em linguagens de gerenciamento de bancos de dados como SQL. Além disso, estou comprometido em aprimorar minhas habilidades técnicas participando de bootcamps e, neste momento, estou buscando aprimorar minha proficiência em Python por meio da plataforma DIO.
+
 ## Linguagem Utilizada
 O código é desenvolvido em **Python**, uma linguagem de programação de alto nível, conhecida por sua simplicidade e versatilidade.
 
@@ -18,30 +24,8 @@ O algoritmo classifica o herói em diferentes categorias, de acordo com seu nív
 - **Imortal**: 9001 - 10000 pontos de experiência
 - **Radiante**: Acima de 10000 pontos de experiência
 
-### Exemplo de Uso
-```python
-# Criando variáveis que serão utilizadas durante o algoritmo
-nomeHeroi = input("Digite o nome do Herói: ")
-xpHeroi = int(input("Digite o nível do Herói: "))
-nivelHeroi = ""
 
-# Criando condicionais que definirão o nível do herói
-if xpHeroi <= 1000:  
-    nivelHeroi = "Ferro"
-elif xpHeroi >= 1001 and xpHeroi <= 2000:
-    nivelHeroi = "Bronze"
-elif xpHeroi >= 2001 and xpHeroi <= 5000:
-    nivelHeroi = "Prata"
-elif xpHeroi >= 5001 and xpHeroi <= 7000:
-    nivelHeroi = "Ouro"
-elif xpHeroi >= 7001 and xpHeroi <= 8000:
-    nivelHeroi = "Platina"
-elif xpHeroi >= 8001 and xpHeroi <= 9000:
-    nivelHeroi = "Ascendente"
-elif xpHeroi >= 9001 and xpHeroi <= 10000:
-    nivelHeroi = "Imortal"
-else:
-    nivelHeroi = "Radiante"
-
-# Exibindo a saída do algoritmo
-print(f"O Herói de nome: {nomeHeroi} está no nível de {nivelHeroi}")
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/%C3%ADtalo-tavares-a9b873214)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/titotavares/)
+* Email para contato: tito2001@hotmail.com.br
